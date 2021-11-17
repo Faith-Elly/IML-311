@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Faith's Website</title>
+</head>
+<body link="000" alink="#017bf5" vlink"#000">
+	<br />
+	<h3 align="center">
+	    <font face="Lato" size="13">Hai! This is my first website</font>
+	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	    <font face="cinzel" size= "6">
+		<a href="file:///C:/Users/ACER/Documents/html/home.html">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<a href="file:///C:/Users/ACER/Documents/html/biodata.htm">Biodata</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	        <a href="file:///C:/Users/ACER/Documents/html/gallery.htm">Gallery</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	    </font>
+	</h3>	
+	<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+	<h1 align="center">
+		<font face="Lato" colour="#017bf5" size="10">
+			WELCOME! I HOPE YOU TAKE LOOK AT MY WEBSITE
+                </font>
+	</h1>
+	<h3 align="center">
+		<font face="Lato" color="#000" size="5">
+			THIS IS MY FIRST TIME MAKING A WEBSITE!
+		</font>
+	<h3 align="center">
+		<font face="Lato" color="#000" size="5">
+			I HAD SO MUCH FUN MAKING ONE!
+		</font>
+</body>
+</html>
